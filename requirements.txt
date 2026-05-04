@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 mlxtend
-pyplot
+plotly
 openpyxl

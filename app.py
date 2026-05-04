@@ -834,7 +834,7 @@ else:
         | Metrik | Rumus | Interpretasi |
         |--------|-------|--------------|
         | **Support** | P(A ∩ B) | Seberapa sering A dan B muncul bersama |
-        | **Confidence** | P(B\|A) | Jika A dibeli, seberapa sering B juga dibeli |
+        | **Confidence** | P(B|A) | Jika A dibeli, seberapa sering B juga dibeli |
         | **Lift** | Confidence / P(B) | Lift > 1: hubungan positif (bukan kebetulan) |
 
         **Cara baca aturan:** *"Jika pelanggan membeli **A**, maka kemungkinan besar juga membeli **B**"*
